@@ -1,0 +1,19 @@
+.divider {
+  width: 5px;
+  height: auto;
+  display: inline-block;
+}
+.div-titre {
+  display: inline-block;
+  width: -webkit-fill-available;
+}
+.titre-post {
+  float: left;
+  font-weight: bold;
+}
+.date-post {
+  float: right;
+  font-style: italic;
+  font-weight: bold;
+  color: lightslategrey;
+}
